@@ -1,13 +1,9 @@
-# Challenge 9 README Generator
-  function renderLicenseBadge(license) {
-  if (license !== "None") {
-    return `![License](https://img.shields.io/badge/License-${license}-blue.svg)`;
-  }
-  return "";
-}(data.license)}
+# Test
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  Application to generate a high quality README file
+
+  application to create readme file
 
   ## Table of Contents (Optional)
     
@@ -19,19 +15,21 @@
   - [Questions](#Questions)
   
   ## Installation
-  To use this application you will have to input node index.js
+  node and inquirer
   
   ## Usage
-  Use this application to generate a README file
+  review readme on git hub
   
   ## License
   MIT
+  [License](#license)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
-  ## How to Contribute
-  NA
+  ## Contributions
+  links on github
   
   ## Tests
-NA
+na
 
   ## Questions
   Feel free to contact me at tvohnoutka05@gmail.com
