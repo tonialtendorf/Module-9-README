@@ -2,12 +2,10 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
-//test: const generateMarkdowns = require('./utils/generateMarkdown.js')
+const path = require('path');
 
 // TODO: Create an array of questions for user input
-const questions = []
-  inquirer.prompt(
-    [
+const questions = [
     {
       type: 'input',
       message: 'What is the project title?',
@@ -43,7 +41,7 @@ const questions = []
       type: 'list',
       message: 'Select license from the options:',
       name: 'license',
-      choices: ['None', 'GNU General Public License', 'MIT License', 'Boost Software License 1.0']
+      choices: ['None', 'Apache', 'GNU', 'MIT', 'Boost Software 1.0']
     },
     {
       type: 'input',
@@ -55,36 +53,20 @@ const questions = []
       message: 'Please enter your email address.',
       name: 'email',
     },
-  ]);
+  ];
 
-
-  // .then(({
-  //   title,
-  //   installation,
-  //   instructions,
-  //   credits,
-  //   license,
-  //   git,
-  //   email,
-  //   usage,
-  //   contributions,
-
-  // }) => {
-  //   const template = 
-  // })
    // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
- fs.writeFile(`./${fileName.join(' ')}.md`, data, (err) =>{
-  if(err){
-    console.log(err)
-  }
-  console.log("Your README file has been created");
- })
+ return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
 
 // TODO: Create a function to initialize app
-function init() {}
-
+function init() {
+  inquirer.prompt(questions).then((responses) => {
+    console.log('Creating README file');
+    writeToFile('README.md', generateMarkdown({ ...responses }));
+  });
+}
 // Function call to initialize app
 init();
 
