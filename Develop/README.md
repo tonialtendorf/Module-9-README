@@ -21,9 +21,7 @@
   ## Usage
   Refer to video demo in readme file
   
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/82wvZMIph2Y/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=82wvZMIph2Y)
+![Final video of fixing issues in your code in VS Code(https://img.youtube.com/82wvZMIph2Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=82wvZMIph2Y)
 
   
   ## Credits
