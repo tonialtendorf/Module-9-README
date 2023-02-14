@@ -22,10 +22,10 @@
   Refer to video demo in readme file
   
   ## Credits
- https://shields.io/
+https://shields.io/
 https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-adding-badges-to-your-readme
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-Prework Study Guide Create Quality ReadMe Module![image](https://user-images.githubusercontent.com/117392154/218800289-8302b02e-2384-43fa-b378-61c604b05795.png)
+Prework Study Guide Create Quality ReadMe Module
 
   
   ## License
