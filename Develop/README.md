@@ -21,7 +21,7 @@
   ## Usage
   Refer to video demo in readme file
   
-![ReadME Generator Demo](https://img.youtube.com/82wvZMIph2Y/maxresdefault.jpg)(https://www.youtube.com/watch?v=82wvZMIph2Y)
+[![ReadME Generator Demo](https://img.youtube.com/vi/82wvZMIph2Y/0.jpg)](https://www.youtube.com/watch?v=82wvZMIph2Y)
 
   
   ## Credits
