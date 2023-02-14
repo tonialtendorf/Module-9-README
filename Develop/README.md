@@ -22,7 +22,11 @@
   Refer to video demo in readme file
   
   ## Credits
-  https://shields.io/
+ https://shields.io/
+https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-adding-badges-to-your-readme
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+Prework Study Guide Create Quality ReadMe Module![image](https://user-images.githubusercontent.com/117392154/218800289-8302b02e-2384-43fa-b378-61c604b05795.png)
+
   
   ## License
   The license for this project is MIT.
@@ -36,5 +40,5 @@
 NA
 
   ## Questions
-  Feel free to contact me at tvohnoutka05@gmail.com./n
+  Feel free to contact me at tvohnoutka05@gmail.com.
   Please visit my github profile at [tonialtendorf](https://github.com/tonialtendorf/)
