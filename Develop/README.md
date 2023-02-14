@@ -21,7 +21,7 @@
   ## Usage
   Refer to video demo in readme file
   
-  [![Demo](https://drive.google.com/file/d/1qPr-3Gku0BnyGc8SBvIljma_VywJ_iqI/view)](https://drive.google.com/file/d/1qPr-3Gku0BnyGc8SBvIljma_VywJ_iqI/view)
+  [![Demo](https://youtu.be/82wvZMIph2Y)]
   
   ## Credits
 https://shields.io/
