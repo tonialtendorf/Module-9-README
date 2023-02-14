@@ -41,7 +41,7 @@ Prework Study Guide Create Quality ReadMe Module
   ![GitHub license](https://img.shields.io/badge/license-MIT-blueviolet.svg)
   
   ## Contributions
-  Prework Study Guide Create Quality ReadMe Module
+NA
   
   ## Tests
 NA
