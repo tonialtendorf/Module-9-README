@@ -21,6 +21,7 @@
   ## Usage
   Refer to video demo in readme file
   
+  Click on video to play.
 [![ReadME Generator Demo](https://img.youtube.com/vi/82wvZMIph2Y/0.jpg)](https://www.youtube.com/watch?v=82wvZMIph2Y)
 
   
@@ -28,6 +29,7 @@
 https://shields.io/
 https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-adding-badges-to-your-readme
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+https://www.youtube.com/watch?v=jQ8dZwTw8wQ
 Prework Study Guide Create Quality ReadMe Module
 
   
