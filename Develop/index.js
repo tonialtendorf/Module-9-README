@@ -29,6 +29,11 @@ const questions = [
     },
     {
       type: 'input',
+      message: 'If any, list your collaborators, tutorials, etc',
+      name: 'credits',
+    },
+    {
+      type: 'input',
       message: 'Provide contribution details.',
       name: 'contribution',
     },
